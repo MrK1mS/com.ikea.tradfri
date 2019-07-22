@@ -3,6 +3,9 @@
 This app allows you to connect your IKEA Trådfri Devices to Homey
 
 ### Changelog
+Version 1.2.15
+* Add support for IKEA Trådfri Tunable White Bulb (E14) 600lm
+
 Version 1.2.14
 * Add productId for IKEA Trådfri Tunable White Bulb (E14)
 

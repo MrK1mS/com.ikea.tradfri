@@ -12,7 +12,7 @@
   "category": [
     "lights"
   ],
-  "version": "1.2.14",
+  "version": "1.2.15",
   "compatibility": ">=1.5.0",
   "sdk": 2,
   "author": {
@@ -194,9 +194,13 @@
       },
       "zigbee": {
         "manufacturerName": "IKEA of Sweden",
-        "productId": "TRADFRI bulb E14 WS opal 400lm",
+        "productId": [
+			"TRADFRI bulb E14 WS opal 400lm",
+			"TRADFRI bulb E14 WS opal 600lm"
+		],
         "deviceId": [
           256,
+		  268,
           544
         ],
         "profileId": [
